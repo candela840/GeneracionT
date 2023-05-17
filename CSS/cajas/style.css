@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  div{
+    height: 150px;
+    border-radius: 10%;
+    border:2px solid rgb(22, 20, 19);
+  }
+  body {
+    background-color: rgb(92, 83, 131);
+    text-align: center;
+    font-size: 2em;
+  }
+  #item1{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    width: 400px;
+    margin: 0px auto;
+    padding:3px 5px;
+  }
+  #item2{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    width: 400px;
+    margin: 0px 400px ;
+    padding:3px 5px;
+  }
+  #item3{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    width: 400px;
+    margin: 0px 100px ;
+    padding:3px 5px;
+  }
+  #item4{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    width: 400px;
+    margin: left;
+    padding:3px 5px;
+  }

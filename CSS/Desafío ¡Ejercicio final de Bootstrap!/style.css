@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+.card{
+    width: 15rem;
+
+margin: 3% 1%;
+}
+.navbar-brand{
+    margin: 0% 5%;
+}

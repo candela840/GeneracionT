@@ -1,0 +1,56 @@
+
+body {
+    background-image: url("https://www.solofondos.com/wp-content/uploads/2016/07/star-wars-spaceships-vehicles-1680x1050-wallpaper_www.wallpaperhi.com_58.jpg");
+   
+    background-size:cover;
+}
+header  {
+    color: darkkhaki;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+padding: 5px 12px;
+  }
+header nav {
+    display: flex;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  header a {
+    text-decoration: none;
+    font-weight: bold;
+    color: darkkhaki;
+    border:3px solid rgb(255, 217, 0);
+    font-size: 200%;
+  }
+  .container p{
+    font-size: 170%;
+
+  }
+  header a:hover {
+    color: blue;
+  }
+
+h1{
+    color: darkkhaki;
+}
+h2{
+    color: darkkhaki;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    font-size: 150%;
+
+}
+li{
+    color: darkkhaki;
+    font-size: 150%;
+}
+p{
+    color: darkkhaki;
+    font-size: 100%;
+}

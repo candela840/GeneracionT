@@ -1,0 +1,30 @@
+
+div{
+    margin: 0 auto;
+}
+#pan1{
+    background-color: rgb(223, 167, 98);
+    width: 25%;
+    height: 110%;
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45px;
+    border-bottom: solid rgb(180, 155, 43) 5px;;
+    border-radius: 10px;
+}
+#carne{
+    background-color: brown;
+    width: 25%;
+    height: 110px;
+    border-radius:20px;
+    color: brown;
+}
+#pan2{
+    background-color:rgb(223, 167, 98);
+    width: 25%;
+    height: 110%;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    color: burlywood;
+    border-top: solid rgb(221, 183, 56) 5px;;
+
+}

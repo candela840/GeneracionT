@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+}
+body {
+    background-image: url("Imagenes/fondo2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja {
+    margin: 100px auto;
+    color: black;
+    background: transparent;
+    backdrop-filter: blur(20px);
+    padding: 50px 60px 70px;
+}
+h1 {
+    font-family: sans-serif;
+    padding: 46px 30px;
+    color: rgb(0, 0, 0);
+}
+.caja input {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding: 5px 5px;
+}
+#calcular{
+padding: 3px 3px;
+}
+#calcular:hover {
+    background-color: rgb(208, 133, 211);
+}
